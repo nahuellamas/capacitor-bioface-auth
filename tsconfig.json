@@ -2,6 +2,7 @@
   "compilerOptions": {
     "allowUnreachableCode": false,
     "declaration": true,
+    "declarationDir": "dist/types",
     "esModuleInterop": true,
     "inlineSources": true,
     "lib": ["dom", "es2017"],
@@ -16,5 +17,6 @@
     "strict": true,
     "target": "es2017"
   },
-  "files": ["src/index.ts"]
+  "files": ["src/index.ts"],
+  "include": ["src/**/*.ts", "index.d.ts"],
 }
