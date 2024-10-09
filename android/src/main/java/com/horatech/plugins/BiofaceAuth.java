@@ -1,6 +1,7 @@
 package com.horatech.plugins;
 
 import android.content.Context;
+import android.util.Log;
 import android.os.Build;
 import androidx.annotation.RequiresApi;
 import androidx.biometric.BiometricManager;
