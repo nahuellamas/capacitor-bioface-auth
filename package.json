@@ -1,6 +1,6 @@
 {
   "name": "capacitor-bioface-auth",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Plugin for capacitor with faceId and Fingerprint auth services.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
